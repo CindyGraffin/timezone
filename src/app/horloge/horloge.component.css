@@ -1,0 +1,12 @@
+.city__timer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 13rem;
+    background-color: rgb(130, 186, 186);
+    color: white;
+    border-radius: 25px;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
